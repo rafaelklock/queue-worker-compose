@@ -1,5 +1,4 @@
-
-create database email_sender;
+CREATE DATABASE email_sender;
 
 \c email_sender
 
